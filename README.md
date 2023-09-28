@@ -10,12 +10,19 @@ The application consists of an online service storing data on products with thei
 ## Conceptual model
 ![Modelo Conceitual](https://github.com/BrunoMauesBritto/Assets/blob/main/Modelo.png)
 
+## Domain Instance
+![Instancia de dominio](https://github.com/BrunoMauesBritto/Assets/blob/main/Domain%20Instance.png)
+
+## Swaggers page
+![Swaggers page](https://github.com/BrunoMauesBritto/Assets/blob/main/Swagger%20UI.jpg)
+
 # Technologies utilized
 ## Back end
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- Swaggers
 
 
 # Autor
